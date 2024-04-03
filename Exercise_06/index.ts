@@ -1,10 +1,10 @@
-//include some whitespace characters at the beginning and end of the name. 
-// store name in variable
-let a : string = "\t\n 'kulsoom'\n\t"    
-console.log(a)
 
-let b : string = "\t 'RIMSHA' \t" 
-console.log(b)
+//Question :Write addition, subtraction, multiplication, and division operations
+//  that each result in the number 8. 
+// Be sure to enclose your operations in print statements to see the results.
 
-let g : string = " \t\n `MAHNOOR` \n\t "
-console.log(g)
+console.log(4 + 4 )
+console.log(10 - 2)
+console.log(2 * 4 )
+console.log(40 / 5 )
+
