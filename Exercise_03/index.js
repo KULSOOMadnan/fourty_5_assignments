@@ -1,4 +1,6 @@
 "use strict";
+//author "kulsoom"
+// date : 3 march 2024
 // famous person name or author 
 let famousPerson = "Quiad e Azam ";
 // quotaion 
