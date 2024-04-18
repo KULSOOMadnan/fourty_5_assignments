@@ -8,3 +8,8 @@ console.log(b)
 
 let g : string = " \t\n `MAHNOOR` \n\t "
 console.log(g)
+
+console.log(a.trim())
+console.log(b.trim())
+console.log(g.trim())
+
